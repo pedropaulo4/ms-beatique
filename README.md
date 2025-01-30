@@ -1,5 +1,3 @@
-Aqui está um exemplo de um `README.md` que descreve seu projeto usando a arquitetura CQRS em Java 17, Spring Boot, Docker, MongoDB, PostgreSQL e RabbitMQ:
-
 ```markdown
 # Projeto CQRS com Spring Boot, Docker, MongoDB, PostgreSQL e RabbitMQ
 
